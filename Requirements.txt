@@ -1,0 +1,4 @@
+ torch_geometric
+ torchmetrics
+ numpy
+ torch
